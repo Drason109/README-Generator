@@ -62,7 +62,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then((anwsers) => {
         console.log('Generating README...');
-        writeToFile('README.md',generaterReadMe({...anwsers}));
+        writeToFile('./ReadMe/README.md',generaterReadMe({...anwsers}));
     });
 }
 

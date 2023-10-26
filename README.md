@@ -1,50 +1,13 @@
 # ReadMe-Generater
-![GitHub License](https://img.shields.io/badge/license-Apache-blue.svg)
 
-## Description
+## Desription 
 
-Creates a professional ReadMe File
+This project demostrates how to make a README file when submit a project or working for a company. Most time ReadMe file are the last thing we do because of the fact that we do not know what good professional README is. This application save you the time of how to make one on your just answer a couple question and the computer create file for you.This is good way of learning how to make good README files for future work
 
- ## Table of Contents
-
- * [Installation](#installation)
-
-* [Intruction](#rules)
-    
-* [license](#license)
-
-* [Edit](#edit)
-
-* [Tests](#tests)
-
-* [Contact](#Contact)
-    
 ## Installation
 
-To install necessary dependencies, run the following Command:
+You will need to have inquirer in order to run this application and node.js
 
-```
-npm i
-```
+## Usage
 
-## Intruction
-follow the guidelines
-
-## License
-
-    This project is licensed under the Apache license.
-
-## Edit
-
-Request to editthe repo
-
-## Tests
-
-```
-node index
-```
-
-## Questions
-
-if you have any questions about the repo, open an issue or contact me dirctly at penaedwin77@gmail.com. You can find more of my work at [Drason109](https://github.com/Drason109/).
-
+https://drive.google.com/file/d/1cUUFJkMgHaZLAxcqHNfuq8IVCD7XWPMM/view
